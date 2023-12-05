@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're LINER Engineering</h1>
+<h1 align="center">Hi 👋, We're Liner Engineering</h1>
 <h3 align="center">Build software for helping people get smart faster.</h3>
 
 <p align="left">
